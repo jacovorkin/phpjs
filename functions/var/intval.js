@@ -11,7 +11,7 @@ function intval(mixed_var, base) {
   //   example 2: intval(4.2);
   //   returns 2: 4
   //   example 3: intval(42, 8);
-  //   returns 3: 42
+  //   returns 3: 34
   //   example 4: intval('09');
   //   returns 4: 9
   //   example 5: intval('1e', 16);
